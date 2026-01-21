@@ -1,0 +1,2 @@
+山西车管|||C:\\source\\develop\\java\\jdk-17.0.4\\bin\\javaw.exe|||C:\\source\\file\\test|||-jar\nhualoon-vehicle-manage-start-1.0.0-SNAPSHOT.jar\n--spring.profiles.active=sxdev
+河北车管|||C:\\\\source\\\\develop\\\\java\\\\jdk-17.0.4\\\\bin\\\\javaw.exe|||C:\\source\\file\\test|||-jar\nhualoon-vehicle-manage-start-1.0.0-SNAPSHOT.jar\n--spring.profiles.active=hbdev
