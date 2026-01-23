@@ -70,7 +70,7 @@ public class ServiceMonitorFrame extends JFrame {
         setupCustomTitleBar();
         
         // 表格模型
-        String[] columnNames = {"名称", "Java路径", "工作目录", "状态", "PID", "操作"};
+        String[] columnNames = {"名称", "Java路径", "工作目录", "状态", "PID***", "操作"};
         tableModel = new DefaultTableModel(columnNames, 0) {
             @Override
             public boolean isCellEditable(int row, int column) {
